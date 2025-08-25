@@ -1,5 +1,6 @@
 import { Text, SafeAreaView, View, StyleSheet, ScrollView, Pressable, Image } from 'react-native';
 
+
 export default Cont=({navigation})=>{
   return(
     <ScrollView style={estilo.sv}>
